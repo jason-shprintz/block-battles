@@ -5,8 +5,8 @@ const warriors = [
     name: "Bryan",
     id: "",
     class: CLASS_TYPES.BRUTE,
-    imgPath: "/block-battles/assets/images/warriors/BryanBrute.png",
-    iconPath: "/block-battles/assets/images/warrior_icons/BruteIcon.png",
+    imgPath: "/assets/images/warriors/BryanBrute.png",
+    iconPath: "/assets/images/warrior_icons/BruteIcon.png",
     description:
       "Lives by one rule: punch first, ask questions never. Can't read, but reading's for nerds. You're a nerd for reading this far.",
     skillTree: {
@@ -25,8 +25,8 @@ const warriors = [
     name: "Wally",
     id: "",
     class: CLASS_TYPES.WIZARD,
-    imgPath: "/block-battles/assets/images/warriors/WallyWizard.png",
-    iconPath: "/block-battles/assets/images/warrior_icons/WizardIcon.png",
+    imgPath: "/assets/images/warriors/WallyWizard.png",
+    iconPath: "/assets/images/warrior_icons/WizardIcon.png",
     description:
       "Speaks fluent gibberish and wears his bathrobe 24/7, this Wizard has the power to creep out all the girls at the bar.",
     skillTree: {
@@ -45,8 +45,8 @@ const warriors = [
     name: "Henrietta",
     id: "",
     class: CLASS_TYPES.HEALER,
-    imgPath: "/block-battles/assets/images/warriors/HenriettaHealer.png",
-    iconPath: "/block-battles/assets/images/warrior_icons/HealerIcon.png",
+    imgPath: "/assets/images/warriors/HenriettaHealer.png",
+    iconPath: "/assets/images/warrior_icons/HealerIcon.png",
     description:
       "Powered with an Italian mother level of passive aggression, this Healer will never let you forget that one time that they helped you.",
     skillTree: {
@@ -65,8 +65,8 @@ const warriors = [
     name: "Ashley",
     id: "",
     class: CLASS_TYPES.ASSASSIN,
-    imgPath: "/block-battles/assets/images/warriors/AshleyAssassin.png",
-    iconPath: "/block-battles/assets/images/warrior_icons/AssassinIcon.png",
+    imgPath: "/assets/images/warriors/AshleyAssassin.png",
+    iconPath: "/assets/images/warrior_icons/AssassinIcon.png",
     description:
       "She can't pick up a gallon of milk, but she can throw a dart piss drunk on mimosas at 8 am and get relatively close to the board.",
     skillTree: {
@@ -85,8 +85,8 @@ const warriors = [
     name: "Tommy",
     id: "",
     class: CLASS_TYPES.TANK,
-    imgPath: "/block-battles/assets/images/warriors/TommyTank.png",
-    iconPath: "/block-battles/assets/images/warrior_icons/TankIcon.png",
+    imgPath: "/assets/images/warriors/TommyTank.png",
+    iconPath: "/assets/images/warrior_icons/TankIcon.png",
     description:
       "Oddly compassionate to the point where it's weird, this Tank will protect your skills, but will talk a lot about their problems.",
     skillTree: {
