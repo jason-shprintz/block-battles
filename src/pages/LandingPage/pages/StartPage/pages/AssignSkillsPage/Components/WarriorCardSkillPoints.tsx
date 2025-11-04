@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { COLORS, FlexCol, FlexRow } from "@/styles/core/styles";
+import { COLORS, FlexRow } from "@/styles/core/styles";
 import { ISkillTree, IWarrior } from "@/types/core";
 import { teamDataStore, warriors } from "@/server";
 import { observer } from "mobx-react-lite";

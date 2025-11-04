@@ -25,7 +25,6 @@ export const FlexRow = styled(Default)`
 `;
 
 export const Container = styled(FlexCol)`
-  height: 99dvh;
   font-size: 100%;
   overflow: auto;
   justify-content: space-around;
